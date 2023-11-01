@@ -1,0 +1,10 @@
+PNR: 9b432008-4d68-47d7-9831-f3f5799fbcf9
+User: shaunak
+Departure Flight: IN211 - DELHI to KOLKATA
+Departure Time: 2023-11-15T08:00
+Price: Rs8050.0
+Return Flight: IN234 - KOLKATA to DELHI
+Return Time: 2023-11-10T14:00
+Price: Rs8050.0
+Total Price: Rs16100.0
+Booking Time: 2023-11-01T09:05:30.555626600

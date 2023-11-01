@@ -1,0 +1,11 @@
+Booking Details:
+PNR: d545a842-0738-4616-ac3f-a37cca3f1410
+User: shuan
+Booking Time: 2023-11-01T09:47:45.225275500
+
+Departure Flights:
+IN123 - DELHI to BANGALORE, Departure Time: 2023-11-01T09:00, Price: $12000.0
+IN234 - KOLKATA to DELHI, Departure Time: 2023-11-10T14:00, Price: $8050.0
+Return Flights:
+IN234 - KOLKATA to DELHI, Departure Time: 2023-11-10T14:00, Price: $8050.0
+Total Price: 28100.0

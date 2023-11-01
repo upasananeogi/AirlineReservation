@@ -1,0 +1,7 @@
+PNR: 54274b12-992d-4e2b-856a-fcfd7bb5604f
+User: N
+Departure Flight: IN123 - DELHI to BANGALORE
+Departure Time: 2023-11-01T09:00
+Price: Rs12000.0
+Total Price: Rs12000.0
+Booking Time: 2023-10-31T13:09:10.973579800
